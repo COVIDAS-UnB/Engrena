@@ -1,7 +1,7 @@
 # Engrena
 
 ## Problema a ser solucionado:
+O desafio escolhido para solução durante o Hackathon foi: Cultura e Etiqueta de convívio envolvendo, inclusive, o uso de máscaras;
 
-O desafio escolhido para solução durante o Hackathon foi o Problema 4: Cultura e Etiqueta de convívio envolvendo, inclusive, o uso de máscaras;
-
-Link do Pitch: https://youtu.be/LJEQObFFThk
+## Pitch
+O pitch pode ser encontrado neste [link](https://youtu.be/LJEQObFFThk).
